@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alubms-list/static/css/main.b7215c85.css",
+    "main.js": "/Alubms-list/static/js/main.4825defb.js",
+    "index.html": "/Alubms-list/index.html",
+    "main.b7215c85.css.map": "/Alubms-list/static/css/main.b7215c85.css.map",
+    "main.4825defb.js.map": "/Alubms-list/static/js/main.4825defb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7215c85.css",
+    "static/js/main.4825defb.js"
+  ]
+}
